@@ -11,11 +11,11 @@ A Colaorado Board of Elections employee has fivent you the following tasls to co
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
-**## Resources**
+## Resources
 - Data Source: election_results.csv
 - Software: Python 3.10.2, Visual Studio Code
 
-**##Summary**
+##Summary
 
 The analysis fo the election shows that:
 - There were 369,711 vostes cast in the election.
@@ -28,6 +28,6 @@ The analysis fo the election shows that:
   - Diana DeGette received 73.8% of the votes and 272,892 votes
   - Raynon Anthony Doane received 3.1% of the votes and 11,606 votes
 
-**## Chalenge Overview**
+## Chalenge Overview
 
-**## Chalenge Summary**
+## Chalenge Summary
