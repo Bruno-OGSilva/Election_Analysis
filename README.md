@@ -1,7 +1,7 @@
-**# Election_Analysis**
+# Election_Analysis
 
 
-**## Project Overview**
+## Project Overview
 
 A Colaorado Board of Elections employee has fivent you the following tasls to complete the election audit of a recent local congressional election.
 
