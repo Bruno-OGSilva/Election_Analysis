@@ -15,9 +15,9 @@ A Colaorado Board of Elections employee has fivent you the following tasls to co
 - Data Source: election_results.csv
 - Software: Python 3.10.2, Visual Studio Code
 
-##Summary
+## Summary
 
-The analysis fo the election shows that:
+The analysis for the election shows that:
 - There were 369,711 vostes cast in the election.
 - The Candidates were:
   - Charles Casper Stockham
@@ -30,4 +30,19 @@ The analysis fo the election shows that:
 
 ## Chalenge Overview
 
+The election commission has requested additional data to complete the audit:
+
+- The voter turnout for each county
+- The percentage of votes from each county out of the total count
+- The county with the highest turnout
+
+
 ## Chalenge Summary
+
+The analysis for the county turnout shows that:
+- County Votes:
+  - Jefferson: 10.5% (38,855)
+  - Denver: 82.8% (306,055)
+  - Arapahoe: 6.7% (24,801)
+- Devner has the largest votes turnout
+
